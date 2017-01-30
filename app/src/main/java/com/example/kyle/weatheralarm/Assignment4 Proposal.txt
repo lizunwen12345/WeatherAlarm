@@ -1,0 +1,47 @@
+﻿----------------------- Page 1-----------------------
+
+2016/6/1                                        University of California, Irvine Mail ­ Assignment4 Proposal 
+
+                                                                                                    Zunwen Sr. Li <zsli@uci.edu> 
+
+  Assignment4 Proposal  
+
+   Peizhao Ou <peizhao.ou@gmail.com>                                                                   Fri, May 27, 2016 at 9:09 AM 
+  To: "Zunwen Sr. Li" <zsli@uci.edu> 
+
+     Okay, but for weather forecast feature, PLEASE consider allowing some sorta visual effect rather than 
+     showing plain text.  
+
+     Peizhao 
+
+     On May 27, 2016, at 8:16 AM, Zunwen Sr. Li <zsli@uci.edu> wrote:  
+
+             Hi Peizhao, 
+             What about if I combine a weather forecast with an alarm clock? Except for looking for the 
+             weather info in any city, the program also has alarm clock feature. When an alarm clock rings, it 
+             will also display the weather information of the local city.   
+
+             Best, 
+             Zunwen  
+
+             On Fri, May 27, 2016 at 12:17 AM, Peizhao Ou <peizhao.ou@gmail.com> wrote:  
+                Hi Zunwen, 
+
+                I am afraid that feature itself might not be sufficient amount of work. If you want to stick to this 
+                app, can you think about adding more features. Examples are like adding notification for 
+                bringing a poncho or umbrella  in a potentially rainy day..  
+
+                Peizhao 
+                   
+                On May 26, 2016, at 9:47 PM, Zunwen Sr. Li <zsli@uci.edu> wrote:  
+
+                        Hi Peizhao, 
+                        I am Zunwen Li with ID 13931033. I would like to make a weather forecast 
+                        application as my final assignment. The program will retrieve weather data from 
+                        Internet. It should give uses the option to choose which city he wants to see. Is 
+                        this one appropriate?  
+
+                        Best, 
+                        Zunwen Li  
+
+https://mail.google.com/mail/u/0/?ui=2&ik=633f6e6fe0&view=pt&cat=EECS%2040&search=cat&msg=154f2fa61039887c&siml=154f2fa61039887c         1/1 
